@@ -9,11 +9,11 @@ The objective of this project was to obtain a sensus of the trees on campus and 
 You can explore the source file this map [here](arvores_rural.html)
 
 ## Data list:
- <ul>
-<li>The data containing the location and identification of each tree is available [here](Inventário_12_12_16_corrigido.shp)</li>
-<li>The quantitative excell file is available [here](Quantitativo_10_03_2017_I.xlsx)</li>
-<li>The qualitative data file is available [here](Qualitativo_Invent_atualizado 01-03-17.xlsx)</li>
- </ul>
+
+The data containing the location and identification of each tree is available [here](https://github.com/Luizmardeab/Urban_trees_UFRRJ/blob/main/Invent%C3%A1rio_12_12_16_corrigido.shp)
+The excel file containing the qualitative data is available [here](https://github.com/Luizmardeab/Urban_trees_UFRRJ/blob/main/Qualitativo_Invent_atualizado%2001-03-17.xlsx)
+The excel file containing the qualitative data is available [here](https://github.com/Luizmardeab/Urban_trees_UFRRJ/blob/main/Quantitativo_10_03_2017_I.xlsx)
+
 
 
 This project is maintained by [Luizmar de Assis Barros](https://github.com/Luizmardeab)
