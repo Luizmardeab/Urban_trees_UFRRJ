@@ -10,9 +10,9 @@ You can explore the source file this map [here](arvores_rural.html)
 
 ## Data list:
 
-The data containing the location and identification of each tree is available [here](https://github.com/Luizmardeab/Urban_trees_UFRRJ/blob/main/Invent%C3%A1rio_12_12_16_corrigido.shp)
-The excel file containing the qualitative data is available [here](https://github.com/Luizmardeab/Urban_trees_UFRRJ/blob/main/Qualitativo_Invent_atualizado%2001-03-17.xlsx)
-The excel file containing the qualitative data is available [here](https://github.com/Luizmardeab/Urban_trees_UFRRJ/blob/main/Quantitativo_10_03_2017_I.xlsx)
+The data containing the location and identification of each tree is available [here](Invent_12_12_16_corrigido.shp)
+The excel file containing the qualitative data is available [here](Qualitativo_Invent_atualizado_2001-03-17.xlsx)
+The excel file containing the qualitative data is available [here](Quantitativo_10_03_2017_I.xlsx)
 
 
 
