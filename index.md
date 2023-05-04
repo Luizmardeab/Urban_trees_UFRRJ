@@ -11,11 +11,13 @@ You can explore the source file this map [here](arvores_rural.html)
 ## Data list:
 
 The data containing the location and identification of each tree is available [here](Invent_12_12_16_corrigido.shp)
+
 The excel file containing the qualitative data is available [here](Qualitativo_Invent_atualizado_2001-03-17.xlsx)
+
 The excel file containing the qualitative data is available [here](Quantitativo_10_03_2017_I.xlsx)
 
 
-
+### Contact information
 This project is maintained by [Luizmar de Assis Barros](https://github.com/Luizmardeab)
 
 For any inqueries send an email to luizmarhp@hotmail.com
