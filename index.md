@@ -1,8 +1,8 @@
 # Street Trees at the Federal Rural University of Rio de Janeiro
 
-This is the repository for the data and map of all street trees at the Federal Rural University of Rio de Janeiro. The data includes quantitative and qualitative variables obtained from each tree on campus. The data collection took place during 2015 -2016, and involved the participation of multiple students from the Forest Engineering bachelor's degree. 
+This is the repository for the data and map of all street trees at the Federal Rural University of Rio de Janeiro. The data includes quantitative and qualitative variables obtained from each tree on campus. The data collection took place during 2015 -2016 and involved the participation of multiple students from the Forest Engineering bachelor’s degree.
 
-The objective of this project was to obtain a sensus of the trees on campus and introduce and train students to urban forestry practices.
+The objective of this project was to obtain a census of the trees on campus and introduce and train students to urban forestry practices.
 
 <iframe src="arvores_rural.html" height="500" width="1000"></iframe>
 
