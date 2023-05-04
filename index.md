@@ -6,7 +6,7 @@ The objective of this project was to obtain a sensus of the trees on campus and 
 
 <iframe src="arvores_rural.html" height="500" width="1000"></iframe>
 
-You can explore the source file this map [here](arvores_rural.html)
+You can explore this map [as its own web page here](arvores_rural.html)
 
 ## Data list:
 
